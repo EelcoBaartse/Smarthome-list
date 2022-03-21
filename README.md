@@ -13,3 +13,14 @@ Home assistant Lovelace:
 
 Home assistant Lovelace Cards:
 - Home feed card: https://github.com/gadgetchnnel/lovelace-home-feed-card
+
+Home assistant Integrations:
+- Highly Available Home Assistant: https://github.com/cvb941/HAHA
+- 
+
+Design:
+- Elements of value: https://media.bain.com/elements-of-value/#
+
+Hardware:
+- R503 Vingerafdruk sensor
+- 
