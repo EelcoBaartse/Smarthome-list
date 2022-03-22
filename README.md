@@ -18,7 +18,10 @@ Home assistant Integrations:
 - Highly Available Home Assistant: https://github.com/cvb941/HAHA
 - 
 
-Design:
+Home assistant architecture design:
+- Config Packages: https://www.youtube.com/watch?v=HZTA3AB6oIg&t=10s
+
+UI/UX Design:
 - Elements of value: https://media.bain.com/elements-of-value/#
 
 Hardware:
