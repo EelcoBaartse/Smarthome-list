@@ -21,6 +21,9 @@ Home assistant Integrations:
 Home assistant architecture design:
 - Config Packages: https://www.youtube.com/watch?v=HZTA3AB6oIg&t=10s
 
+Home assistant automations:
+- multiple triggers in one automation, diffent actions: https://youtu.be/L-bcabdaMxE
+
 UI/UX Design:
 - Elements of value: https://media.bain.com/elements-of-value/#
 
