@@ -35,3 +35,6 @@ Shelly dimmer:
 - Blackadder instructions & template: https://templates.blakadder.com/shelly_Dimmer_2.html
 - Tasmota shelly 2 issue: 
 https://github.com/arendst/Tasmota/issues/9412
+
+Sensor:
+- SPS30 - laser air sensor
